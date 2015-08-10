@@ -1,0 +1,21 @@
+/*
+
+1. Cover three different types of information that the JavaScript language understands
+    a. Numbers
+    b. Letters and numbers combined called Strings
+    c. True or False called Booleans
+2. Baseic Numeric Operators
+    a. Addition
+    b. Subtraction
+    c. Multiplication
+    d. Division
+3. Order of Operation
+    a. Multiplication and division First
+    b. Adding and Subtracting Second
+    i.e. 8/2+1  would be 8/2 = 4 then 4+1 = 5  so 8/2+1 = 5
+4. Parenthesis Affect on Order of Operation
+    a. Use parenthesis to have a program perform the math inside of it first
+        i.e. 8/(2+1)
+
+
+*/
